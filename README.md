@@ -8,7 +8,9 @@
 Some of my projects can be seen in my web portfolio: 
 https://guilhermemm-dev.github.io/portifolio/
 
+
 Other ways to find me:
+
 Linkedin: https://www.linkedin.com/in/guilhermemm-dev/
 Email: guilhermemm.dev@gmail.com
 Instagram: @gmartins1309
