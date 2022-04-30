@@ -23,9 +23,9 @@
   
 <hr>
 
-<h2>- 👋 Hi, I’m Guilherme Martins - @guilhermemm-dev <br><br>
-👀 I'm a curious guy who loves to learn new things <br><br>
-   that help me solve problems intelligently. <br>
+<h2>👋 Hi, I’m Guilherme Martins - @guilhermemm-dev <br><br>
+👀 I'm a curious guy who loves to learn new things <br>
+   that help me solve problems intelligently. <br><br>
 🌱 I’m currently learning ---> Web Developer, HTML, CSS, JS, React, Node and my favorite NextJs. <br><br>
 📫 How to reach me  ---> https://guilhermemm-dev.github.io/portifolio/</h2>
 
