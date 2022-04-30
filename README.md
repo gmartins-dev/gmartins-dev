@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guilhermemm-dev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning -----> Web Developer, HTML, CSS, JS and Python.
+- 🌱 I’m currently learning -----> Web Developer, HTML, CSS, JS, React, Node and my favorite NextJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ---> https://guilhermemm-dev.github.io/portifolio/
 
