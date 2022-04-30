@@ -26,7 +26,7 @@
 <h2>👋 Hi, I’m Guilherme Martins - @guilhermemm-dev <br><br>
 👀 A curious guy who loves to learn new things <br>
   &nbsp; &nbsp; &nbsp;  that help me solve problems intelligently. <br><br>
-🌱 Currently learning: Full Stack Developer skills like: JS, React, Node <br>
+🌱 Currently learning: Full Stack Developer skills like: JavaScrip, TypeScript, React, Node <br>
   &nbsp; &nbsp; &nbsp;  and my favorite NextJs <3<br><br>
 📫 How to reach me: https://guilhermemm-dev.github.io/portifolio</h2>
 
