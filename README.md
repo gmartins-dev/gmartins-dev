@@ -23,11 +23,10 @@
   
 <hr>
 
-- 👋 Hi, I’m @guilhermemm-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning -----> Web Developer, HTML, CSS, JS, React, Node and my favorite NextJs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  ---> https://guilhermemm-dev.github.io/portifolio/
+<h2>- 👋 Hi, I’m Guilherme Martins - @guilhermemm-dev
+- 👀 I'm a curious guy who loves to learn new things that help me solve problems intelligently.
+- 🌱 I’m currently learning ---> Web Developer, HTML, CSS, JS, React, Node and my favorite NextJs.
+- 📫 How to reach me  ---> https://guilhermemm-dev.github.io/portifolio/</h2>
 
 
 - Some of my projects can be seen in my web portfolio: 
