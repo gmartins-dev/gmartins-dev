@@ -1,0 +1,180 @@
+{
+    "http.proxyAuthorization": null,
+  
+    // * VSCode general UI settings
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 1.2,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.rulers": [80, 120],
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false,
+    "[python]": {
+      "editor.tabSize": 4,
+      "gitlens.codeLens.symbolScopes": [
+        "!Module"
+      ]
+    },
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+      "node_modules": false
+    },
+  
+    // * VSCode general configurations
+    "sync.gist": "",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+    "eslint.packageManager": "yarn",
+    "eslint.codeAction.showDocumentation": {
+      "enable": true
+    },
+    "prettier.printWidth": 60,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "[javascriptreact]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    // * Emmet configurations
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+  
+    // * Color preview in multiple languages
+    "colorize.languages": [
+      "javascript",
+      "typescript",
+      "javascriptreact",
+      "typescriptreact",
+      "json",
+      "html",
+      "css"
+    ],
+  
+    // * Highlight in comments
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF6961",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#AEC6CF",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "[]",
+            "color": "#FEFE95",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "[x]",
+            "color": "#FEFE95",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#B19CD9",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+  
+    // * Terminal configuration
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.shellArgs.windows": [
+      "-ExecutionPolicy",
+      "Bypass",
+      "-NoLogo"
+    ],
+    "window.titleBarStyle": "native",
+    "window.menuBarVisibility": "toggle",
+  
+    // * Extra configuration
+    "c-cpp-compile-run.c-compiler": "mingw",
+    "c-cpp-compile-run.cpp-compiler": "mingw",
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "glassit.alpha": 220,
+  }
