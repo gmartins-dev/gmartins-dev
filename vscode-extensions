@@ -1,7 +1,8 @@
 tutorial: https://www.youtube.com/watch?v=xyEoZ5ChGJI
 
 no console:
-code --install-extension (colocar antes de cada linha para instalar pelo console)
+salvar -> code --list-extensions > extensions.list (para gerar essa lista)
+instalar -> code --install-extension (colocar antes de cada linha para instalar pelo console)
 
 aaron-bond.better-comments
 adpyke.codesnap
