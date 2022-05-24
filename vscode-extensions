@@ -1,11 +1,7 @@
 tutorial: https://www.youtube.com/watch?v=xyEoZ5ChGJI
 
 no console:
-
-cat extension.list | xargs -L 1 echo code --install-extension
-
-salvar a lista abaixo como um arquivo "extensions.list"
-
+code --install-extension (colocar antes de cada linha para instalar pelo console)
 
 aaron-bond.better-comments
 adpyke.codesnap
