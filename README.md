@@ -1,4 +1,12 @@
 <h1 align="center"> ABOUT ME </h1>
+
+
+<div align="center">
+  <a href="#">
+  <img src="https://images2.imgbox.com/41/7e/lLaqtz80_o.png"/>
+
+</div>
+
   <div align="center">
    <a href="https://www.linkedin.com/in/guilhermemm-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
