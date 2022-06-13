@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="#">
-  <img src="https://images2.imgbox.com/67/1f/kVkyPtcs_o.png"/>
+  <img src="https://images2.imgbox.com/ae/e8/W7QmciDO_o.png"/>
 
 </div>
 <br>
