@@ -30,16 +30,18 @@
   
 <hr>
 
-<h2>👋 Hi, I’m Guilherme Martins - @guilhermemm-dev <br><br>
+<h2>👋 Hi, I’m Guilherme Martins <br><br>
 👀 A curious guy who loves to learn new things <br>
-  &nbsp; &nbsp; &nbsp;  that help me solve problems intelligently. <br><br>
-🌱 Currently learning: Full Stack Developer skills like: JavaScrip, TypeScript, React, Node <br>
-  &nbsp; &nbsp; &nbsp;  and my favorite NextJs <3<br><br>
+ My focus is on building beautiful Web and Mobile applications with
+ great usability, scalability and performance to improve and
+ acilitate people`s lives.<br><br>
+
+
 📫 How to reach me: https://www.linkedin.com/in/guilhermemm-dev </h2>
 
 
 - Some of my projects can be seen in my web portfolio: 
-- https://guilhermemm-dev.github.io/portifolio/
+- https://guilhermemm.dev
 
 
 - Other ways to find me:
