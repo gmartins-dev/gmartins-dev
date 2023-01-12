@@ -31,7 +31,7 @@ scalability and performance to improve and facilitate people's lives.<br><br>
 
 Visit my Portfolio: https://guilhermemm.dev </h2>
 
-- Find me:
+Find me:
 
 - Linkedin: https://www.linkedin.com/in/guilhermemm-dev/
 - Email: guilhermemm.dev@gmail.com
