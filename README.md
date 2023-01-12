@@ -38,7 +38,7 @@ Find me:
 - Instagram: @gmartins1309
 - GitHub: https://github.com/guilhermemm-dev
 - CodePen: https://codepen.io/guilhermemm-dev
-- Whatsapp: https://api.whatsapp.com/send?phone=5531994087467
+- Whatsapp: https://api.whatsapp.com/send?phone=447438146481
 - Telegram: https://t.me/gmartins1309
 
 
