@@ -29,15 +29,9 @@ Frontend Developer <br><br>
 I'm driven by building beautiful Web and Mobile applications with great usability,<br>
 scalability and performance to improve and facilitate people's lives.<br><br>
 
+Visit my Portfolio: https://guilhermemm.dev </h2>
 
-📫 How to reach me: https://www.linkedin.com/in/guilhermemm-dev </h2>
-
-
-- Some of my projects can be seen in my web portfolio: 
-  https://guilhermemm.dev
-
-
-- Other ways to find me:
+- Find me:
 
 - Linkedin: https://www.linkedin.com/in/guilhermemm-dev/
 - Email: guilhermemm.dev@gmail.com
