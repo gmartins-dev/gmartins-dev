@@ -26,7 +26,7 @@
 <h2>👋 Hi, I'm Guilherme <br>
 Frontend Developer <br><br>
  👀 A curious guy who loves to learn new things <br><br>
-I'm driven by building beautiful Web and Mobile applications with great usability, 
+I'm driven by building beautiful Web and Mobile applications with great usability,<br>
 scalability and performance to improve and facilitate people's lives.<br><br>
 
 
