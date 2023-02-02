@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  
+  <a href="#">
   <img src="https://images2.imgbox.com/ae/e8/W7QmciDO_o.png"/>
 
 </div>
@@ -24,7 +24,7 @@
 <hr>
 
 <div>
-<a href="https://guilhermemm.dev">
+<a href="#">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=guilhermemm-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemm-dev&theme=tokyonight&border_radius=15px&layout=compact">
 </div>
