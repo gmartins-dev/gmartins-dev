@@ -36,13 +36,13 @@
 
 <hr>
 
-<h2>👋 Hi, I'm Guilherme <br>
+<h4>👋 Hi, I'm Guilherme <br>
 Frontend Developer <br><br>
  👀 A curious guy who loves to learn new things <br><br>
 I'm driven by building beautiful Web and Mobile applications with great usability,<br>
 scalability and performance to improve and facilitate people's lives.<br><br>
 
-Visit my Portfolio: https://guilhermemm.dev </h2>
+Visit my Portfolio: https://guilhermemm.dev </h4>
 
 Find me:
 
