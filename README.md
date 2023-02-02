@@ -23,6 +23,14 @@
   
 <hr>
 
+<div>
+
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=guilhermemm-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemm-dev&theme=tokyonight&border_radius=15px&layout=compact">
+</div>
+
+<hr>
+
 <h2>👋 Hi, I'm Guilherme <br>
 Frontend Developer <br><br>
  👀 A curious guy who loves to learn new things <br><br>
