@@ -24,11 +24,14 @@
   
 <hr>
 
-<div>
-<a href="#">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=guilhermemm-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemm-dev&theme=tokyonight&border_radius=15px&layout=compact">
-</div>
+
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemm-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
+   </a>
+  <a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemm-dev&theme=tokyonight&border_radius=15px&layout=compact">
+  </a>
+
 
 <hr>
 
