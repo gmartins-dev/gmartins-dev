@@ -42,15 +42,15 @@ Frontend Developer <br><br>
 I'm driven by building beautiful Web and Mobile applications with great usability,<br>
 scalability and performance to improve and facilitate people's lives.<br><br>
 
-Visit my Portfolio: https://guilhermemm.dev </h4>
+Visit my Portfolio: https://gmartins.dev </h4>
 
 Find me:
 
-- Linkedin: https://www.linkedin.com/in/guilhermemm-dev/
+- Linkedin: https://www.linkedin.com/in/gmartins-dev/
 - Email: guilhermemm.dev@gmail.com
 - Instagram: @gmartins1309
-- GitHub: https://github.com/guilhermemm-dev
-- CodePen: https://codepen.io/guilhermemm-dev
+- GitHub: https://github.com/gmartins-dev
+- CodePen: https://codepen.io/gmartins-dev
 - Whatsapp: https://api.whatsapp.com/send?phone=447438146481
 - Telegram: https://t.me/gmartins1309
 
