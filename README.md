@@ -7,7 +7,7 @@
 </div>
 <br>
   <div align="center">
-   <a href="https://www.linkedin.com/in/guilhermemm-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/gmartins-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
  <div style="display: inline_block", align="center"><br>
@@ -26,10 +26,10 @@
 
  <div style="display: inline_block", align="center">
   <a href="#">
-  <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=guilhermemm-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
+  <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=gmartins-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
    </a>
   <a href="#">
- <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemm-dev&theme=tokyonight&border_radius=15px&layout=compact">
+ <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmartins-dev&theme=tokyonight&border_radius=15px&layout=compact">
   </a>
 </div>
 
@@ -47,15 +47,15 @@ Visit my Portfolio: https://gmartins.dev </h4>
 Find me:
 
 - Linkedin: https://www.linkedin.com/in/gmartins-dev/
-- Email: guilhermemm.dev@gmail.com
+- Email: gmartins.dev@gmail.com
 - Instagram: @gmartins1309
 - GitHub: https://github.com/gmartins-dev
-- CodePen: https://codepen.io/gmartins-dev
+- CodePen: https://codepen.io/guilhermemm-dev
 - Whatsapp: https://api.whatsapp.com/send?phone=447438146481
 - Telegram: https://t.me/gmartins1309
 
 
 <!---
-guilhermemm-dev/guilhermemm-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gmartins-dev/gmartins-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
