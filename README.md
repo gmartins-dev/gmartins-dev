@@ -25,9 +25,9 @@
 <hr>
 
  <div style="display: inline_block", align="center">
-  <a href="#">
+<!--   <a href="#">
   <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=gmartins-dev&hide=stars,prs,issues&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
-   </a>
+   </a> -->
   <a href="#">
  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmartins-dev&theme=tokyonight&border_radius=15px&layout=compact">
   </a>
