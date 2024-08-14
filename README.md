@@ -46,13 +46,9 @@ Visit my Portfolio: https://gmartins.dev </h4>
 
 Find me:
 
+- Links: https://gmartins.dev/links
 - Linkedin: https://www.linkedin.com/in/gmartins-dev/
-- Email: gmartins.dev@gmail.com
-- Instagram: @gmartins1309
-- GitHub: https://github.com/gmartins-dev
-- CodePen: https://codepen.io/guilhermemm-dev
-- Whatsapp: https://api.whatsapp.com/send?phone=447438146481
-- Telegram: https://t.me/gmartins1309
+- Email: contact@gmartins.dev
 
 
 <!---
