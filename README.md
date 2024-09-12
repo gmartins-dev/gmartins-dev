@@ -39,7 +39,7 @@
 <h4>👋 Hi, I'm Guilherme <br>
 Frontend Developer <br><br>
  👀 A curious guy who loves to learn new things <br><br>
-I'm driven by building awesome Web and Mobile applications with great usability,<br>
+I'm driven by building amazing Web and Mobile applications with great usability,<br>
 scalability and performance to improve and facilitate people's lives.<br><br>
 
 Visit my Portfolio: https://gmartins.dev </h4>
